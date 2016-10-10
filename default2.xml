@@ -13,7 +13,7 @@
            revision="n" />
 
   <remote  name="cs"
-           fetch="https://github.com/CAF-staging"
+           fetch="https://github.com/CAF-staging
            revision="n" />
            
   <remote  name="cm"
